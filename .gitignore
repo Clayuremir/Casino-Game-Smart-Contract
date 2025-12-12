@@ -1,0 +1,49 @@
+# Build artifacts
+.anchor
+target
+**/*.rs.bk
+test-ledger
+
+# Dependencies
+node_modules
+.yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Keys and secrets
+keys/
+*.json
+!package.json
+!tsconfig.json
+!**/tsconfig.json
+
+# Tests
+tests/
+
+# Migrations
+migrations/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db

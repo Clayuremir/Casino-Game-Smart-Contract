@@ -17,6 +17,7 @@ A decentralized jackpot smart contract built on the Solana blockchain using the 
 - [License](#license)
 - [Contact](#contact)
 
+<a id="features"></a>
 ## ✨ Features
 
 - **Decentralized Jackpot System**: Fair and transparent jackpot mechanism on Solana
@@ -26,6 +27,7 @@ A decentralized jackpot smart contract built on the Solana blockchain using the 
 - **TypeScript Client**: Full TypeScript SDK for interacting with the program
 - **CLI Tools**: Command-line interface for easy interaction
 
+<a id="architecture"></a>
 ## 🏗️ Architecture
 
 The smart contract implements a round-based jackpot system:
@@ -43,6 +45,8 @@ The smart contract implements a round-based jackpot system:
 - **Global Vault**: PDA that holds all deposited SOL
 - **VRF Integration**: Uses ORAO Network for verifiable randomness
 
+
+<a id="prerequisites"></a>
 ## 📦 Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -53,6 +57,7 @@ Before you begin, ensure you have the following installed:
 - **Solana CLI** tools - [Install Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 - **Anchor Framework** v0.30.1 - [Install Anchor](https://www.anchor-lang.com/docs/installation)
 
+<a id="installation"></a>
 ## 🚀 Installation
 
 1. **Clone the repository**:
@@ -71,6 +76,7 @@ Before you begin, ensure you have the following installed:
    anchor build
    ```
 
+<a id="configuration"></a>
 ## ⚙️ Configuration
 
 The project is configured to use Solana's devnet by default. Configuration can be found in `Anchor.toml`.
@@ -93,6 +99,7 @@ For production use, consider moving sensitive values to environment variables:
 - `WALLET_KEYPAIR_PATH`: Path to your wallet keypair
 - `TEAM_WALLET_ADDRESS`: Team wallet for receiving fees
 
+<a id="usage"></a>
 ## 📖 Usage
 
 ### CLI Commands
@@ -168,7 +175,7 @@ const joinTx = await joinGameTx(
     100000000 // deposit amount
 );
 ```
-
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```
@@ -199,6 +206,7 @@ Casino-Smart-Contract/
 └── package.json               # Node.js dependencies
 ```
 
+<a id=testing></a>
 ## 🧪 Testing
 
 Run the test suite:
@@ -226,6 +234,7 @@ yarn script winner -g 2
 yarn script claim -g 2
 ```
 
+<a id="security"></a>
 ## 🔒 Security
 
 This project implements several security measures:
@@ -243,6 +252,8 @@ This project implements several security measures:
 - Keep your wallet keypairs secure and never commit them to version control
 - Review all transactions before signing
 
+
+<a id="contributing"></a>
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
@@ -253,19 +264,19 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+<a id="license"></a>
 ## 📄 License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
+<a id="contact"></a>
 ## 📞 Contact
 
 - **Telegram**: [@novustch](https://t.me/novustch)
 - **Twitter**: [@novustch](https://x.com/novustch)
 
-## 🔗 Contract Address
-
-- **Devnet**: [CKaQ1zwbTdYoVjBfWMUiZGzTbf8wHfc2ExTRTM79kj7w](https://solscan.io/account/CKaQ1zwbTdYoVjBfWMUiZGzTbf8wHfc2ExTRTM79kj7w?cluster=devnet)
-
+<a id="acknowledgments"></a>
 ## 🙏 Acknowledgments
 
 - [Anchor Framework](https://www.anchor-lang.com/) for the Solana development framework

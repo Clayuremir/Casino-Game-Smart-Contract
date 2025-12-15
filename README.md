@@ -2,6 +2,25 @@
 
 A decentralized jackpot smart contract built on the Solana blockchain using the Anchor framework. This project implements a fair jackpot system with secure random number generation using ORAO Network's VRF (Verifiable Random Function).
 
+## Contact 
+
+| Platform | Link |
+|----------|------|
+| 📱 Telegram | [t.me/novustch](https://t.me/novustch) |
+| 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
+| 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
+
+<div align="left">
+    <a href="https://t.me/novustch" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://wa.me/14105015750" target="_blank"><img alt="WhatsApp"
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/985432160498491473" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
+Feel free to reach out for implementation assistance or integration support.
+
 ## 📋 Table of Contents
 
 - [Features](#features)
@@ -15,7 +34,6 @@ A decentralized jackpot smart contract built on the Solana blockchain using the 
 - [Security](#security)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 <a id="features"></a>
 ## ✨ Features
@@ -264,17 +282,10 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <a id="license"></a>
 ## 📄 License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-<a id="contact"></a>
-## 📞 Contact
-
-- **Telegram**: [@novustch](https://t.me/novustch)
-- **Twitter**: [@novustch](https://x.com/novustch)
 
 <a id="acknowledgments"></a>
 ## 🙏 Acknowledgments

